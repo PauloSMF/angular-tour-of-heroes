@@ -1,4 +1,4 @@
-# angular-ivy-vsrs4w
+# angular-tour-of-heroes
 
 Tutorial desenvolvido para fins didáticos, com o objetivo de introdução ao Angular.
 
